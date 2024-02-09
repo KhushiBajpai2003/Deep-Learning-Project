@@ -1,1 +1,2 @@
 # Deep-Learning-Project
+The objective of this project is to develop a classification model capable of accurately identifying inflamed kidneys using histopathological image data obtained from the ADL pathology database. Given a dataset comprising images of kidney tissue samples, the task is to train a machine learning model that can classify each image into one of two categories: inflamed or healthy kidneys.
