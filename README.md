@@ -1,4 +1,4 @@
-# Kidney Lesion Classifier #
+# Kidney Lesion Classifier 
 
 # Overview
 This project aims to classify kidney lesions into four classes: cyst, normal, tumor, and stone. It utilizes a Convolutional Neural Network (CNN) model trained on a dataset containing images of kidney lesions. The CNN model is capable of predicting the class of a given kidney image with high accuracy.
